@@ -14,7 +14,7 @@
 //  License
 //  Copyright (c) 2014 Jesse Squires
 //  Released under an MIT license: http://opensource.org/licenses/MIT
-//
+// test
 
 #ifndef JSQMessages_JSQMessages_h
 #define JSQMessages_JSQMessages_h
